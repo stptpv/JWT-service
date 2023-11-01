@@ -1,4 +1,4 @@
-# JSONServer + JWT Auth
+# JSON/GraphQl Server + JWT Auth
 
 A Fake REST API using json-server with JWT authentication. 
 
